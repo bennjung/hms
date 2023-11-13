@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f1a8ac9b-a434-45da-a696-7c648fd45872" name="Changes" comment="[ADD] test git push">
-      <change beforePath="$PROJECT_DIR$/src/gameserver/threadServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/gameserver/threadServer.java" afterDir="false" />
+    <list default="true" id="f1a8ac9b-a434-45da-a696-7c648fd45872" name="Changes" comment="[ADD] test git push pleasee">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,9 +29,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2Xy1aUEO5ad9Flxm3GElSzSgu1a" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,7 +46,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "develop",
+    "last_opened_file_path": "/Users/bennyjung/java_pj/serverCl",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,7 +68,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699586573072</updated>
-      <workItem from="1699586574222" duration="19121000" />
+      <workItem from="1699586574222" duration="20009000" />
+      <workItem from="1699892199189" duration="207000" />
     </task>
     <task id="LOCAL-00001" summary="[Initial] testing Socket Server">
       <option name="closed" value="true" />
@@ -117,7 +123,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[Initial] testing Socket Server" />
     <MESSAGE value="[ADD] test git push" />
-    <option name="LAST_COMMIT_MESSAGE" value="[ADD] test git push" />
+    <MESSAGE value="[ADD] test git push pleasee" />
+    <option name="LAST_COMMIT_MESSAGE" value="[ADD] test git push pleasee" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
