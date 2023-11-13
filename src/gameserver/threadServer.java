@@ -33,6 +33,7 @@ public class threadServer extends Thread {
     public void run() {
         if(clSize == 1) {
             System.out.println("just test");
+            System.out.println("gee");
 
         }
 
