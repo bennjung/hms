@@ -32,8 +32,8 @@ public class threadServer extends Thread {
     @Override
     public void run() {
         if(clSize == 1) {
-            System.out.println("just test");
-            System.out.println("gee");
+            System.out.println("testtt");
+
 
         }
 
