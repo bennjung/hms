@@ -1,8 +1,12 @@
 ### Example user template template
 ### Example user template
 
-# IntelliJ project files
+### IntelliJ IDEA ###
 .idea
 *.iml
 out
 gen
+
+
+### Mac OS ###
+.DS_Store
