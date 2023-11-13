@@ -32,6 +32,7 @@ public class threadServer extends Thread {
     @Override
     public void run() {
         if(clSize == 1) {
+            System.out.println("waiting another player");
 
 
         }
